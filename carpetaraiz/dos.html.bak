@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>dos</title>
+  </head>
+  <body>
+    <h1 style="text-align: center;"><span style="color: #33ccff;">Mi serie
+        favorita</span></h1>
+    <h2><a href="file:///C:/Users/Valentina/Documents/DPAV%20UNVM/TDPM/Unidad%201/Actividad%202/carpetaraiz/index.html"
+        title="Inicio">Inicio</a></h2>
+    <h2><a href="file:///C:/Users/Valentina/Documents/DPAV%20UNVM/TDPM/Unidad%201/Actividad%202/carpetaraiz/tres.html"
+        title="Dirección de actores">Dirección de actores</a></h2>
+    <h2 style=" text-align: center;"><span style="color: #3333ff;">Los 100</span></h2>
+    <p style="text-align: center;"><a href="https://www.netflix.com/ar/title/70283264">Ver
+        Los 100 en Netflix</a></p>
+    <p style="text-align: center;"><span style="color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Después
+        de que ocurriese una catastrófica guerra nuclear, se produjo la huida de
+        los humanos que consiguieron sobrevivir. El futuro de la supervivencia
+        de la raza humana está en manos de unos jóvenes delincuentes que
+        consiguieron huir y salvarse de la guerra. Éstos viven desde entonces en
+        una nave espacial. Desde la estación espacial The Ark, cien de los
+        supervivientes son enviados de vuelta al planeta Tierra para
+        investigarlo y poder estudiar las posibilidades que existen de volver a
+        colonizarlo.</span></p>
+    <dl style="text-align: center;">
+      <dd><b><span style="color: #0000ee;"><span style="color: black;">Trailer
+              Los 100 temporada 1:</span></span></b></dd>
+      <dt><br>
+      </dt>
+      <dt><iframe src="https://www.youtube.com/embed/aDrsItJ_HU4" title="YouTube video player"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen="" height="315" frameborder="0" width="560"></iframe><br>
+      </dt>
+    </dl>
+    <table style="width: 508px; height: 180px;" border="1">
+      <tbody>
+        <tr>
+          <td>Desarrollada por</td>
+          <td><a href="https://en.wikipedia.org/wiki/Jason_Rothenberg">Jason
+              Rothenberg</a></td>
+        </tr>
+        <tr>
+          <td>Basada en</td>
+          <td>Los 100 de <a href="https://en.wikipedia.org/wiki/Kass_Morgan">Kass
+              Morgan</a></td>
+        </tr>
+        <tr>
+          <td>País de origen</td>
+          <td>Estados Unidos</td>
+        </tr>
+        <tr>
+          <td style="width: 146.483px;">Género</td>
+          <td style="width: 317.517px;">Acción, ciencia ficción, drama,
+            post-apocalíptico.</td>
+        </tr>
+        <tr>
+          <td>Temporadas</td>
+          <td>7</td>
+        </tr>
+        <tr>
+          <td>Año de lanzamiento</td>
+          <td>2014</td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>

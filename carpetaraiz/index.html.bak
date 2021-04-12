@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>index</title>
+  </head>
+  <body>
+    <h1 style="text-align: center;"><span style="color: #ea8cea;">Bienvenidos a
+        mi página web</span></h1>
+    <h2 style="text-align: left;"><a href="file:///C:/Users/Valentina/Documents/DPAV%20UNVM/TDPM/Unidad%201/Actividad%202/carpetaraiz/dos.html"
+        title="Mi serie favorita">Mi serie favorita</a></h2>
+    <h2 style="text-align: left;"><a href="file:///C:/Users/Valentina/Documents/DPAV%20UNVM/TDPM/Unidad%201/Actividad%202/carpetaraiz/tres.html"
+        title="Dirección de actores">Dirección de actores</a></h2>
+    <p style="text-align: center;">Soy Valentina Suárez de Río Cuarto, tengo 24
+      años y estudio la Licenciatura en diseño y producción audiovisual en la
+      Universidad Nacional de Villa María.</p>
+    <p style="text-align: center;">Esta página está destinada para la materia
+      Taller de diseño y producción multimedia.</p>
+    <p style="text-align: center;">La siguiente foto la tomé en Alpa Corral en
+      el año 2019:</p>
+    <div style="text-align: center;"><img src="https://valentinasuarez96.files.wordpress.com/2021/04/optimizadacolor.jpg"
+        alt="Alpa Corral" title="Alpa Corral"></div>
+    <div style="text-align: center;"><br>
+    </div>
+    <table style="width: 323px; height: 200px;" border="1">
+      <tbody>
+        <tr>
+          <td style="text-align: left;">Título</td>
+          <td style="text-align: left;"><i>Verano en Alpa</i></td>
+        </tr>
+        <tr>
+          <td style="text-align: left;">Cámara</td>
+          <td style="text-align: left;">Canon EOS Rebel T6i</td>
+        </tr>
+        <tr style="height: 26.9333px;">
+          <td style="width: 152.833px; text-align: left;">Punto F</td>
+          <td style="width: 154.167px; text-align: left;">f/4</td>
+        </tr>
+        <tr>
+          <td style="text-align: left;">Tiempo de exposición</td>
+          <td style="text-align: left;">1/200 s</td>
+        </tr>
+        <tr>
+          <td style="text-align: left;">ISO</td>
+          <td style="text-align: left;">100</td>
+        </tr>
+        <tr>
+          <td style="text-align: left;">Distancia focal</td>
+          <td style="text-align: left;">28 mm</td>
+        </tr>
+      </tbody>
+    </table>
+    <p style="text-align: left;"><br>
+    </p>
+    <p style="text-align: left;"><u><b>Datos de contacto:</b></u></p>
+    <p style="text-align: left;"><a href="mailto:valesuar06@gmail.com">Mi correo
+        electrónico</a></p>
+    <p style="text-align: left;"><a href="https://www.instagram.com/valesuarez96/">Mi
+        Instagram</a></p>
+  </body>
+</html>

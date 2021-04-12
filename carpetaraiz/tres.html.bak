@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>tres</title>
+  </head>
+  <body>
+    <h1 style="text-align: center;"><span style="color: #6600cc;">Dirección de
+        actores</span></h1>
+    <h2><a href="file:///C:/Users/Valentina/Documents/DPAV%20UNVM/TDPM/Unidad%201/Actividad%202/carpetaraiz/index.html"
+        title="Inicio">Inicio</a></h2>
+    <h2><a href="file:///C:/Users/Valentina/Documents/DPAV%20UNVM/TDPM/Unidad%201/Actividad%202/carpetaraiz/dos.html"
+        title="Mi serie favorita">Mi serie favorita</a></h2>
+    <p style="text-align: center;">El director de actores es el encargado de
+      recrear a los personajes del guión cinematográfico, guiando a los actores
+      que les darán vida a los mismos y materializarán el film.</p>
+    <p style="text-align: center;">El siguiente ejemplo es una de mis escenas
+      favoritas en cuanto a la actuación.</p>
+    <p style="text-align: center;"><br>
+    </p>
+    <h2 style="text-align: center;">Ejemplo: una escena de la película "Historia
+      de un matrimonio"</h2>
+    <p style="text-align: center;"><a href="https://www.netflix.com/ar/title/80223779"
+        title="Ver película en Netflix">Ver película en Netflix</a></p>
+    <p style="text-align: center;"><a href="https://www.netflix.com/ar/title/80223779"><b><span
+            style="color: black;">Trailer oficial de la película:</span></b></a></p>
+    <p style="text-align: center;"><a href="https://www.netflix.com/ar/title/80223779"><b><span
+            style="color: black;"></span></b><span style="color: black;"><iframe
+            src="https://www.youtube.com/embed/pFg0Rk3L9SY" title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen="" height="315" frameborder="0" width="560"></iframe></span><br>
+      </a></p>
+    <p style="text-align: center;"><img src="https://1.bp.blogspot.com/-ievmcspW9C0/Xe2n1WGXgGI/AAAAAAAAbAo/AA8Q__BB5PUTP34p4cInazWwRk4o-ZwuACLcBGAsYHQ/s1600/frases-pelicula-marriage-story-historia-de-un-matrimonio-noah-baumbach-16.png"
+        alt="Historia de un matrimonio" title="Historia de un matrimonio" style="width: 962px; height: 549px;"></p>
+    <div style="text-align: center;"><img src="https://www.diarioneuquen.com.ar/wp-content/uploads/2020/11/historia-de-un-matrimonio-960x640.jpg"
+        alt="Historia de un matrimonio1" title="Historia de un matrimonio1"></div>
+    <div style="text-align: center;"><br>
+    </div>
+    <div style="text-align: left;">Autor: <a href="https://es.wikipedia.org/wiki/Noah_Baumbach">Noah
+        Baumbach</a></div>
+    <div style="text-align: center;"><br>
+    </div>
+  </body>
+</html>
